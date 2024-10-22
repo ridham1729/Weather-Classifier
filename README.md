@@ -16,6 +16,7 @@ The following library are used in this project:
 
 ### **Dataset**
 The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/nikhil7280/weather-type-classification 
+
 It includes the following features:
 - **Temperature**
 - **Humidity**
